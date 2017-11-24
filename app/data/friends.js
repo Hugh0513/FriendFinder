@@ -1,0 +1,50 @@
+[
+{
+  "name": "Ahmed",
+  "photo":"https://en.wikipedia.org/wiki/Ahmed_I#/media/File:Sultan_I._Ahmet.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+  "name":"Anthony",
+  "photo":"https://en.wikipedia.org/wiki/Anthony_Kiedis#/media/File:2016_RiP_Red_Hot_Chili_Peppers_-_Anthony_Kiedis_-_by_2eight_-_DSC0349.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+  "name":"John",
+  "photo":"https://en.wikipedia.org/wiki/John_Frusciante#/media/File:JohnFruscianteAugust2006.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+}
+]
